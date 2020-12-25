@@ -39,3 +39,4 @@ let g:clang_cpp_options = '-Wall -Werror -Wextra'
 let g:clang_cpp_options = '-W'
 let g:clang_verbose_pmenu = 1
 
+let g:clang_c_completeopt = 'longest,menuone,preview'
